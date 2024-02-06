@@ -4,16 +4,25 @@ Here's some info about me!
 
 👨‍💻 Technologies
 React.Js
+
 Python
+
 JavaScript
+
 Php
+
 C/C++
+
 SQL 
 
 ✨ Interests
+
 Problem Solving
+
 Web development
+
 Mathematics
+
 Learning about new technologies 
 
 
