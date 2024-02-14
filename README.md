@@ -7,6 +7,8 @@ Here's some info about me!
 
 React.Js
 
+Qt
+
 Python
 
 JavaScript
