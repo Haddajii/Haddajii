@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Haddaji and i'm a 21 yo Computer Science and engineering student from Tunisia.</p>
+<p align="left">My name is Haddaji and I'm a 21 yo Computer Science and engineering student from Tunisia.</p>
 
 ###
 
@@ -34,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
