@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Interests<br><br>   Problem Solving<br>   Web development<br>   Mathematics<br>   Learning about new technologies<br><br><br>📚 I'm currently learning ...<br><br>Node JS<br>Express JS</h4>
+<h4 align="left">✨ Interests<br><br>   Problem Solving<br>   Web development<br>   Mathematics<br>   Learning about new technologies<br><br><br>📚 I'm currently learning ...<br><br>Machine learning<br>Blockchain Basics</h4>
 
 ###
 
