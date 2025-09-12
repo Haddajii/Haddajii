@@ -16,7 +16,7 @@
 ### 📚 I'm currently learning ...
 
 - Machine Learning  
-- Blockchain Basics  
+- System design  
 
 ---
 
