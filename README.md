@@ -10,7 +10,8 @@
 
 - Problem Solving  
 - Web development  
-- Mathematics  
+- Mathematics
+- System Architecture & Backend Development
 - DevOps & Cloud Computing  
 
 ### 📚 I'm currently learning ...
