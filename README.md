@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-<p align="left">My name is Haddaji and I'm a 22 yo Computer Science and engineering student from Tunisia.</p>
+<p align="left">My name is Haddaji and I'm a 22-year-old Computer Science and Engineering student from Tunisia.</p>
 
 ---
 
@@ -9,40 +9,37 @@
 ### ✨ Interests
 
 - Problem Solving  
-- Web development  
-- Mathematics
-- System Architecture & Backend Development
+- Mathematics  
+- System Architecture & Backend Development  
 - DevOps & Cloud Computing  
 
 ### 📚 I'm currently learning ...
 
 - Machine Learning  
-- System design  
+- System Design  
 
 ---
 
-## 👨‍💻 Technologies
+## ⚙️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+
+
 </div>
 
 ---
@@ -60,13 +57,23 @@
 </div>
 
 ---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haddajii&theme=tokyonight" />
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Haddajii&theme=radical&no-frame=true&margin-w=10" />
 </div>
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  📧 <a href="mailto:mohamedhaddaji68@gmail.com">mohamedhaddaji68@gmail.com</a>
+</p>
