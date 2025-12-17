@@ -1,6 +1,10 @@
 <h1 align="left">Hi there 👋</h1>
 
-<p align="left">My name is Haddaji and I'm a 22-year-old Computer Science and Engineering student from Tunisia.</p>
+<p align="left">
+My name is Haddaji and I'm a 
+<img src="https://age.vercel.app/api?birthdate=2003-01-16" style="vertical-align: middle;" />-year-old
+Computer Science and Engineering student from Tunisia.
+</p>
 
 ---
 
@@ -15,7 +19,7 @@
 
 ### 📚 I'm currently learning ...
 
-- Machine Learning  
+- Agentic AI & LLM Systems 
 - System Design  
 
 ---
