@@ -1,10 +1,11 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="left">
-My name is Haddaji and I'm a 
-<img src="https://age.vercel.app/api?birthdate=2003-01-16" style="vertical-align: middle;" />-year-old
-Computer Science and Engineering student from Tunisia.
+My name is Haddaji and I'm a&nbsp;
+<img src="https://age.vercel.app/api?birthdate=2003-01-16" height="16" style="vertical-align: middle;" />
+&nbsp;year-old Computer Science and Engineering student from Tunisia.
 </p>
+
 
 ---
 
