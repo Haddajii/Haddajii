@@ -1,7 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-<p align="left"> align="left">My name is Haddaji and I'm a 22-year-old Computer Science and Engineering student from Tunisia.</p>
-
+<p align="left">My name is Haddaji and I'm a 22-year-old Computer Science and Engineering student from Tunisia.</p>
 
 ---
 
